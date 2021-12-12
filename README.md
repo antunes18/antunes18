@@ -1,14 +1,13 @@
 # Olá, seja bem-vindo(a) ao meu perfil! 👋
 
-Tenho 18 anos, sou estudante do Bacharelado em Ciência da Computação no Instituto Federal de Goiás (IFG).
+Tenho 18 anos, sou estudante do curso de Ciência da Computação no Instituto Federal de Goiás (IFG) e estagiário no GRI Club desde agosto de 2021. Hands on!
 
-Estudando Desenvolvimento Web. Possuo conhecimento em HTML5, CSS3, Boostrap 4, JavaScript, PHP, MySQL, Git, lógica de programação e um pouco de programação orientada à objetos (POO). No momento presente, estagiando no GRI Club. Hands on!
+## :computer: Ferramentas
 
-## :computer: Tecnologias
-
-- Front-end: HTML, CSS, JS, Bootstrap
-- Back-end: PHP
-- Database: MySQL
+- Apex; 
+- Lightning Web Components (LWC);
+- Visualforce; 
+- Salesforce Object Query Language (SOQL).
 
 ## :link: Redes Sociais
 
