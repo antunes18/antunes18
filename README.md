@@ -13,4 +13,5 @@ Sou estudante do curso de Ciência da Computação no Instituto Federal de Goiá
 ## :link: Redes Sociais
 
 - LinkedIn: [antunes18](https://www.linkedin.com/in/antunes18/)
-- Instagram: [yusuke.2003](https://www.instagram.com/yusuke.2003/)
+- Email: thiago.antunes@estudantes.ifg.edu.br
+
