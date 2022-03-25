@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo(a) ao meu perfil! 👋
 
-Tenho 18 anos, sou estudante do curso de Ciência da Computação no Instituto Federal de Goiás (IFG) e estagiário no GRI Club desde agosto de 2021. Hands on!
+Sou estudante do curso de Ciência da Computação no Instituto Federal de Goiás (IFG) e estagiário no GRI Club desde agosto de 2021. Hands on!
 
 ## :computer: Ferramentas
 
