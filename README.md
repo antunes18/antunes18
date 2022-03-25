@@ -10,7 +10,7 @@ Sou estudante do curso de Ciência da Computação no Instituto Federal de Goiá
 - SQL, MySQL e Salesforce Object Query Language (SOQL);
 - CSS e Bootstrap;
 
-## :link: Redes Sociais
+## :link: Contato
 
 - LinkedIn: [antunes18](https://www.linkedin.com/in/antunes18/)
 - Email: thiago.antunes@estudantes.ifg.edu.br
