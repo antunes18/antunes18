@@ -7,8 +7,8 @@ Sou estudante do curso de Ciência da Computação no Instituto Federal de Goiá
 - Apex (Java like); 
 - JavaScript, Node.js, Express e Lightning Web Components (LWC);
 - HTML5 e Visualforce; 
-- SQL, MySQL e Salesforce Object Query Language (SOQL), .
-- CSS e Bootstrap
+- SQL, MySQL e Salesforce Object Query Language (SOQL);
+- CSS e Bootstrap;
 
 ## :link: Redes Sociais
 
