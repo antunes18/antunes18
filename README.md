@@ -4,10 +4,11 @@ Sou estudante do curso de Ciência da Computação no Instituto Federal de Goiá
 
 ## :computer: Ferramentas
 
-- Apex; 
-- Lightning Web Components (LWC);
-- Visualforce; 
-- Salesforce Object Query Language (SOQL).
+- Apex (Java like); 
+- JavaScript, Node.js, Express e Lightning Web Components (LWC);
+- HTML5 e Visualforce; 
+- SQL, MySQL e Salesforce Object Query Language (SOQL), .
+- CSS e Bootstrap
 
 ## :link: Redes Sociais
 
